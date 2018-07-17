@@ -1,0 +1,9 @@
+E:\Cloud\IT\Volume-PC\Volume-PC\bin\Debug\Volume-PC.exe.config
+E:\Cloud\IT\Volume-PC\Volume-PC\obj\Debug\Volume-PC.csprojResolveAssemblyReference.cache
+E:\Cloud\IT\Volume-PC\Volume-PC\obj\Debug\Volume_PC.Form1.resources
+E:\Cloud\IT\Volume-PC\Volume-PC\obj\Debug\Volume_PC.Properties.Resources.resources
+E:\Cloud\IT\Volume-PC\Volume-PC\obj\Debug\Volume-PC.csproj.GenerateResource.Cache
+E:\Cloud\IT\Volume-PC\Volume-PC\bin\Debug\Volume-PC.exe
+E:\Cloud\IT\Volume-PC\Volume-PC\bin\Debug\Volume-PC.pdb
+E:\Cloud\IT\Volume-PC\Volume-PC\obj\Debug\Volume-PC.exe
+E:\Cloud\IT\Volume-PC\Volume-PC\obj\Debug\Volume-PC.pdb
